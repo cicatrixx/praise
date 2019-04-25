@@ -103,6 +103,7 @@ adjective <- c(
   "proper",
   "rad",
   "radical",
+  "rambunctious",
   "remarkable",
   "riveting",
   "rockandroll",
